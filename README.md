@@ -4,7 +4,7 @@
 
 ### 💻 About Me
 
-* 🌱 PHP developer with **7 years of commercial experience**.
+* 🌱 PHP developer with **6 years of commercial experience**.
 * 🏢 Worked in teams ranging from **4 to 50 members**, both remotely and on-site.
 * 🚀 Skilled at designing and developing scalable software solutions for complex business workflows.
 * 🗄️ Experienced in designing and optimizing databases, improving legacy systems, integrating third-party services, and implementing event-driven architectures.
